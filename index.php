@@ -82,26 +82,63 @@
         </div>
         <div class="col-sm-8">
           <div class="main-content">
-            <div class="main-content-tab">
-              <!-- Nav tabs -->
-              <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation" class="active"><a href="#latest" aria-controls="latest" role="tab" data-toggle="tab">Latest</a></li>
-                <li role="presentation"><a href="#near" aria-controls="profile" role="tab" data-toggle="tab">Near me</a></li>
-                <li role="presentation"><a href="#almost" aria-controls="almost" role="tab" data-toggle="tab">Almost There</a></li>
-                <li role="presentation"><a href="#friends" aria-controls="friends" role="tab" data-toggle="tab">My Friends</a></li>
-              </ul>
+              <div class="tab-container">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs" role="tablist">
+                  <li role="presentation" class="active"><a href="#latest" aria-controls="latest" role="tab" data-toggle="tab">Latest</a></li>
+                  <li role="presentation"><a href="#near" aria-controls="profile" role="tab" data-toggle="tab">Near me</a></li>
+                  <li role="presentation"><a href="#almost" aria-controls="almost" role="tab" data-toggle="tab">Almost There</a></li>
+                  <li role="presentation"><a href="#friends" aria-controls="friends" role="tab" data-toggle="tab">My Friends</a></li>
+                </ul>
 
-              <!-- Tab panes -->
-              <div class="tab-content">
-                <div role="tabpanel" class="tab-pane fade in active" id="latest">
-                  <h1>Latest</h1>
-                </div>
-                <div role="tabpanel" class="tab-pane fade" id="near"><h1>Near me</h1></div>
-                <div role="tabpanel" class="tab-pane fade" id="almost"><h1>Almost</h1></div>
-                <div role="tabpanel" class="tab-pane fade" id="friends"><h1>Friends</h1></div>
+                <!-- Tab panes -->  
+                <div class="tab-content" style="margin-top: 20px;">
+                  <div role="tabpanel" class="tab-pane fade in active" id="latest">
+                    <div class="col-md-4">
+                      <div class="panel panel-default">
+                          <div class="panel-body">
+                            <strong>Donec quam felis</strong>
+                            <p>Thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
+                              and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath </p>
+                          </div>                          
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="panel panel-default">
+                          <div class="panel-body">
+                            <strong>Donec quam felis</strong>
+                            <p>Thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
+                              and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath </p>
+                          </div>                          
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="panel panel-default">
+                          <div class="panel-body">
+                            <strong>Donec quam felis</strong>
+                            <p>Thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
+                              and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath </p>
+                          </div>                          
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="panel panel-default">
+                          <div class="panel-body">
+                            <strong>Donec quam felis</strong>
+                            <p>Thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
+                              and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath </p>
+                          </div>                          
+                      </div>
+                    </div>
+                  </div>
+                  <div role="tabpanel" class="tab-pane fade" id="near">
+                    sdalfjasldfjsa
+                  </div>
+                  <div role="tabpanel" class="tab-pane fade" id="almost"><h1>Almost</h1></div>
+                  <div role="tabpanel" class="tab-pane fade" id="friends"><h1>Friends</h1></div> 
+                </div>               
               </div>
-            </div>
-          </div>
+            </div>          
         </div>
       </div>
     </div>
