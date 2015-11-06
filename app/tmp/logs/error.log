@@ -1,0 +1,319 @@
+2015-11-05 21:38:24 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/fundme/lib/Cake/View/Helper/HtmlHelper.php, line 539]
+2015-11-05 21:38:24 Error: [FatalErrorException] Unsupported operand types
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/var/www/html/f...', 539)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 21:38:25 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/fundme/lib/Cake/View/Helper/HtmlHelper.php, line 539]
+2015-11-05 21:38:25 Error: [FatalErrorException] Unsupported operand types
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/var/www/html/f...', 539)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 21:38:25 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/fundme/lib/Cake/View/Helper/HtmlHelper.php, line 539]
+2015-11-05 21:38:25 Error: [FatalErrorException] Unsupported operand types
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/var/www/html/f...', 539)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 21:38:38 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/fundme/lib/Cake/View/Helper/HtmlHelper.php, line 539]
+2015-11-05 21:38:38 Error: [FatalErrorException] Unsupported operand types
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/var/www/html/f...', 539)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 21:38:39 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/fundme/lib/Cake/View/Helper/HtmlHelper.php, line 539]
+2015-11-05 21:38:39 Error: [FatalErrorException] Unsupported operand types
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/var/www/html/f...', 539)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 21:38:39 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/fundme/lib/Cake/View/Helper/HtmlHelper.php, line 539]
+2015-11-05 21:38:39 Error: [FatalErrorException] Unsupported operand types
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/var/www/html/f...', 539)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/var/www/html/f...', 539, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 21:45:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/jquery.min.map
+Stack Trace:
+#0 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-05 21:45:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/jquery.min.map
+Stack Trace:
+#0 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-05 21:46:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/jquery.min.map
+Stack Trace:
+#0 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-05 21:46:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/jquery.min.map
+Stack Trace:
+#0 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-05 21:46:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/jquery.min.map
+Stack Trace:
+#0 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-05 21:46:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/jquery.min.map
+Stack Trace:
+#0 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-05 21:46:47 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /users/
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-11-05 22:13:12 Error: Fatal Error (4): syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [/var/www/html/fundme/app/View/Users/register.ctp, line 15]
+2015-11-05 22:13:12 Error: [FatalErrorException] syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 15, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 15, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 22:20:39 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/var/www/html/fundme/app/View/Users/register.ctp, line 20]
+2015-11-05 22:20:39 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 20, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 20, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 22:34:22 Error: Fatal Error (4): syntax error, unexpected '{' in [/var/www/html/fundme/app/Controller/UsersController.php, line 19]
+2015-11-05 22:34:22 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 19, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 19, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 22:34:35 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/html/fundme/app/Controller/UsersController.php, line 21]
+2015-11-05 22:34:35 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 21, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 21, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 22:39:07 Error: Fatal Error (1): Call to undefined method SessionComponent::set_flash() in [/var/www/html/fundme/app/Controller/UsersController.php, line 25]
+2015-11-05 22:39:07 Error: [FatalErrorException] Call to undefined method SessionComponent::set_flash()
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/f...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/f...', 25, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/f...', 25, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 22:39:28 Error: Fatal Error (1): Call to undefined method SessionComponent::set_flash() in [/var/www/html/fundme/app/Controller/UsersController.php, line 25]
+2015-11-05 22:39:28 Error: [FatalErrorException] Call to undefined method SessionComponent::set_flash()
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/f...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/f...', 25, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/f...', 25, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 22:39:47 Error: Fatal Error (1): Call to undefined method SessionComponent::set_flash() in [/var/www/html/fundme/app/Controller/UsersController.php, line 25]
+2015-11-05 22:39:47 Error: [FatalErrorException] Call to undefined method SessionComponent::set_flash()
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/f...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/f...', 25, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/f...', 25, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 23:28:33 Error: Fatal Error (4): syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/var/www/html/fundme/app/Model/User.php, line 72]
+2015-11-05 23:28:33 Error: [FatalErrorException] syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 72)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 72, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 72, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 23:32:14 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/html/fundme/app/Controller/UsersController.php, line 24]
+2015-11-05 23:32:14 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 24)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 24, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 24, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-05 23:32:20 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/html/fundme/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('INSERT INTO `fu...', Array)
+#2 /var/www/html/fundme/lib/Cake/Model/Datasource/DboSource.php(1024): DboSource->execute('INSERT INTO `fu...')
+#3 /var/www/html/fundme/lib/Cake/Model/Model.php(1933): DboSource->create(Object(User), Array, Array)
+#4 /var/www/html/fundme/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /var/www/html/fundme/app/Controller/UsersController.php(21): Model->save(Array)
+#6 [internal function]: UsersController->register()
+#7 /var/www/html/fundme/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-11-07 03:26:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/html/fundme/app/Controller/TemplatesController.php, line 10]
+2015-11-07 03:26:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /templates
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 10, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 10, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-07 03:53:48 Error: [MissingActionException] Action TemplatesController::signup() could not be found.
+Exception Attributes: array (
+  'controller' => 'TemplatesController',
+  'action' => 'signup',
+)
+Request URL: /templates/signup
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TemplatesController), Object(CakeRequest))
+#2 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-11-07 04:09:50 Error: Fatal Error (4): syntax error, unexpected '*' in [/var/www/html/fundme/app/Controller/TemplatesController.php, line 18]
+2015-11-07 04:09:50 Error: [FatalErrorException] syntax error, unexpected '*'
+Request URL: /templates
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 18, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 18, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-11-07 04:12:26 Error: [MissingViewException] View file "Templates/signup.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Templates/signup.ctp',
+)
+Request URL: /templates/signup
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/html/fundme/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TemplatesController), Object(CakeRequest))
+#4 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-07 04:13:06 Error: [MissingViewException] View file "Templates/signup.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Templates/signup.ctp',
+)
+Request URL: /templates/signup
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/html/fundme/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TemplatesController), Object(CakeRequest))
+#4 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-07 04:13:40 Error: [MissingViewException] View file "Templates/signin.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Templates/signin.ctp',
+)
+Request URL: /templates/signin
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/html/fundme/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TemplatesController), Object(CakeRequest))
+#4 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-07 04:14:47 Error: [MissingViewException] View file "Templates/signup.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Templates/signup.ctp',
+)
+Request URL: /templates/signup
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/html/fundme/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/fundme/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TemplatesController), Object(CakeRequest))
+#4 /var/www/html/fundme/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-07 04:22:39 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';' in [/var/www/html/fundme/app/View/Layouts/template.ctp, line 18]
+2015-11-07 04:22:39 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';'
+Request URL: /templates/signup
+Stack Trace:
+#0 /var/www/html/fundme/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/f...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/f...', 18, Array)
+#2 /var/www/html/fundme/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/f...', 18, Array)
+#3 /var/www/html/fundme/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
