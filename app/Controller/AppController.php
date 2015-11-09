@@ -38,9 +38,15 @@ class AppController extends Controller {
 		'Auth' => array(
 			'authenticate' => array(
 				'Form' => array(
-					'fields' => array('username' => 'email')
+					'fields' => array('username' => 'email'),					
+					'passwordHasher' => array(
+	                    'className' => 'Simple',
+	                    'hashType' => 'sha256'
+                	)
 				)
-			)
+			),
+			'loginRedirect' => array('controller' => 'dashboard'),
+			'logoutRedirect' => array('controller' => 'dashboard')
 		)
 	);
 }

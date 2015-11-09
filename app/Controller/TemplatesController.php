@@ -28,7 +28,7 @@ class TemplatesController extends AppController {
 	}
 
 	public function index(){
-
+		$this->layout = false;
 	}
 
 	public function signin(){

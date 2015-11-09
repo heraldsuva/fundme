@@ -13,13 +13,6 @@
 </head>
 <body>
 	<?php echo $this->element('template/navigation') ?>
-	<?php 
-		// echo $this->fetch('navigation');		    
-  //     	$this->start('navigation');
-  //   	echo $this->element('template/navigation');
-  //     	$this->end();    
-	?>
-
 	<?php echo $this->fetch('content') ?>
 	<?php echo $this->Html->script(array('jquery.min','bootstrap.min','ie10-viewport-bug-workaround')); ?>
 </body>
