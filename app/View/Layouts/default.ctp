@@ -70,7 +70,7 @@
       (function($) {
           $(function() {
 
-              $('select').selectbox();
+              // $('select').selectbox();
 
               $('#add').click(function(e) {
                   $(this).parents('div.section').append('<br /><br /><select><option>-- Выберите --</option><option>Пункт 1</option><option>Пункт 2</option><option>Пункт 3</option><option>Пункт 4</option><option>Пункт 5</option></select>');

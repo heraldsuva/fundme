@@ -576,10 +576,12 @@ table {
 .black_font {
     color: #4d4d4d;
 }
+/*
 .create_butt .btn {
     width: 165px;
     border-radius: 25px;
 }
+*/
 .recents .green {
     padding-bottom: 20px;
     background: url("../img/foot_line.png") repeat-x;

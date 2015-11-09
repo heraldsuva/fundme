@@ -9,5 +9,13 @@ class CampaignsController extends AppController {
 
 	public function create(){
 
+		if($this->request->is('post')){
+			pr($this->request->data);exit;
+		}
+
+		$categories = $this->Campaign->Category->find('list',array('fields'=>array('Category.id','Category.name')));
+
+		$this->set('categories',$categories);
+
 	}
 }

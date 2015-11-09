@@ -1,2 +1,2 @@
-1446987837
-a:2:{i:0;b:0;s:4:"name";a:2:{s:32:"47604312cb076ad331d1c62ea1c982dd";s:11:"`fundme_db`";s:32:"174e766178fea7db07a11b60b6dfdd84";s:11:"`campaigns`";}}
+1447110690
+a:3:{i:0;b:0;s:4:"name";a:6:{s:32:"47604312cb076ad331d1c62ea1c982dd";s:11:"`fundme_db`";s:32:"eb70110d19c376647f122ba6a9a6296b";s:15:"`Category`.`id`";s:32:"5bea7b19e535d658896259ecb5046648";s:17:"`Category`.`name`";s:32:"469f0eca4934529a8ebe3db2dddf24e6";s:12:"`categories`";s:32:"895ec6f91cf00656056af226532e8e27";s:10:"`Category`";s:32:"174e766178fea7db07a11b60b6dfdd84";s:11:"`campaigns`";}s:6:"fields";a:1:{s:32:"73bb26dab82c6a1d1bc1a84e53da170d";a:2:{i:0;s:15:"`Category`.`id`";i:1;s:17:"`Category`.`name`";}}}
